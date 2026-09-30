@@ -87,6 +87,9 @@ export { default as HistoryIcon} from './HistoryIcon';
 export { default as HandleIcon} from './HandleIcon';
 export { default as ShoppingCartIcon } from './ShoppingCartIcon';
 export { default as AddShoppingCartIcon } from './AddShoppingCartIcon';
+export { default as CatalogIcon } from "./CatalogIcon";
+export { default as CheckmarkCircleIcon } from "./CheckmarkCircleIcon";
+export { default as PaymentsIntegrationIcon } from './PaymentsIntegrationIcon';
 
 export { default as CommunityIcon} from './CommunityIcon';
 export { default as ConnectedIcon} from './ConnectedIcon';
@@ -129,5 +132,6 @@ export { default as PopupShopIcon } from './PopupShopIcon'
 export { default as CompanyShopIcon } from './CompanyShopIcon'
 export { default as MarketingShopIcon } from './MarketingShopIcon'
 export { default as ShopifyShopIcon } from './ShopifyShopIcon'
+export { default as PoDShopIcon } from './PoDShopIcon'
 export { default as SyncIcon } from './SyncIcon'
 export { default as WarningIcon } from './WarningIcon'

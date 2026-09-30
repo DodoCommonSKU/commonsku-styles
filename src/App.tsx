@@ -5961,6 +5961,11 @@ const App = () => {
                       Icons={[<icons.SyncIcon />]}
                       name="SyncIcon"
                     />
+                    <IconsShowcase
+                      Icons={[<icons.CheckmarkCircleIcon />]}
+                      name="CheckmarkCircleIcon"
+                      size="default"
+                    />
                   </IconContainer>
                 </demo.InnerContainer>
 
@@ -5990,6 +5995,10 @@ const App = () => {
                     <IconsShowcase
                       Icons={[<icons.ShopifyShopIcon size="huge" />]}
                       name="ShopifyShopIcon"
+                    />
+                    <IconsShowcase
+                      Icons={[<icons.PoDShopIcon size="huge" />]}
+                      name="PoDShopIcon"
                     />
                   </IconContainer>
                 </demo.InnerContainer>
@@ -6326,6 +6335,16 @@ const App = () => {
                     <IconsShowcase
                       Icons={[<icons.FolderIcon />]}
                       name="FolderIcon"
+                    />
+                    <IconsShowcase
+                      Icons={[<icons.CatalogIcon />]}
+                      name="CatalogIcon"
+                      size="default"
+                    />
+                    <IconsShowcase
+                      Icons={[<icons.PaymentsIntegrationIcon />]}
+                      name="PaymentsIntegrationIcon"
+                      size="default"
                     />
                   </IconContainer>
                 </demo.InnerContainer>
